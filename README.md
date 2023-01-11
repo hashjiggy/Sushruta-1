@@ -2,14 +2,7 @@
 Reforming Medical Infrastructure
 
 
-People Who can Contribute :
-* Md Imran Raj
-* Jigyanshu Raj
-* Gaurav Kumar Singh
-* Rajat Verma
-* Tavneet Kaur Gil
-* Tripti Sharma
-
+Jigyanshu Raj
 
 ========== Color Codes to Use =======
 * #EFFFFD
